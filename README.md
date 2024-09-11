@@ -22,7 +22,9 @@ I have recently completed extensive coursework in Turing College's rigorous **Da
 - 📈 Storytelling through data visualization 
 - 🗣️ Science communication and public education
 
+## Get in Touch 🤝
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginia-arnette-b72954322/)
 
 
 <!--
